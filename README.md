@@ -9,3 +9,7 @@ Decision Trees: https://github.com/Neilus03/JOB-CONDITION-ANALYSIS/blob/main/DEC
 Random forest regression: https://github.com/Neilus03/JOB-CONDITION-ANALYSIS/blob/main/RandomForestRegression.ipynb
 
 Support Vectore Machines: https://github.com/Neilus03/JOB-CONDITION-ANALYSIS/blob/main/SVM_Project.ipynb
+
+
+Done by:
+       Joan Samper, Daniel Vidal, Neil de la Fuente
