@@ -2,7 +2,7 @@
 Job condition analysis based on the widely used Attrition Dataset, Several models are used, such as SVM, Random Forest and Decision Trees.
 Further info in the written paper.
 
-Paper: https://github.com/Neilus03/JOB-CONDITION-ANALYSIS/ML_WRITTEN_PROJECT_2022.pdf
+Paper: https://github.com/Neilus03/JOB-CONDITION-ANALYSIS/blob/main/ML_WRITTEN_PROJECT_2022.pdf
 
 Decision Trees: https://github.com/Neilus03/JOB-CONDITION-ANALYSIS/blob/main/DECISION_TREES_ML.ipynb
 
