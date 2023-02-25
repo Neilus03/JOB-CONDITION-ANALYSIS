@@ -14,7 +14,7 @@ Done by:
        Joan Samper, Daniel Vidal, Neil de la Fuente
 
 
-### Content:
+### Dataset guideline:
 
 Education
 1 'Below College' 2 'College' 3 'Bachelor' 4 'Master' 5 'Doctor'
